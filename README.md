@@ -1,4 +1,4 @@
-Clone this repo to your own github account create the playbook described below, and commit your changes back to your fork.
+Fork this repo to your own github account, create the playbook described below, and commit your changes back to your fork.
 
 Given the ansible inventory file `myinventory` create an Ansible playbook that: 
 
