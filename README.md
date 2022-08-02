@@ -1,3 +1,5 @@
+Clone this repo to your own github account create the playbook described below, and commit your changes back to your fork.
+
 Given the ansible inventory file `myinventory` create an Ansible playbook that: 
 
 1. Copies the contents of myapi to the destination host in /srv
